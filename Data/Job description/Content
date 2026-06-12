@@ -1,0 +1,208 @@
+jd1 = """Remote Data Scientist
+About the job
+A prominent US client is seeking Data Scientists to join their team. As a Data Scientist, you will play a critical role in conducting thorough peer code reviews, providing insightful feedback, and collaborating closely with researchers and stakeholders to align with project goals.
+
+Job Responsibilities:
+
+Write Python code to analyze public datasets and extract valuable insights.
+Communicate effectively with researchers to stay aligned with company objectives.
+Develop clear, well-documented code using Jupyter notebooks.
+Utilize public data sources (e.g., Kaggle, UN, US Government) to address business-related queries.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science, or equivalent experience.
+Strong proficiency in Python for data science and data analysis.
+Comprehensive understanding of data science methodologies.
+Fluent in spoken and written English.
+Strong problem-solving and analytical skills.
+
+Job Benefits:
+Collaborate with top experts worldwide and expand your professional network.
+Enjoy remote work flexibility.
+Competitive global-standard salary in USD.
+Contribute to projects pushing the boundaries of technology, keeping you at the forefront of AI advancements.
+
+Selection Process:
+
+Shortlisted developers may be asked to complete an assessment.
+If you clear the assessment, you will be contacted for contract assignments with expected start dates, durations, and end dates.
+Some contract assignments require fixed weekly hours, averaging 20/30/40 hours per week for the duration of the contract assignment.
+"""
+
+
+jd2 = """Data Annotation Specialist
+About the job
+IMPORTANT NOTE BEFORE APPLYING: 
+This role requires a minimum of three (3) days in-office per week. The specific in-office days will be determined at the discretion of the assigned lead. Please review this requirement carefully before applying. 
+
+Office Location: House #571, Street #35, E-11/3, Islamabad, Pakistan 
+
+Working Hours: 7 PM - 3 AM PKT 
+
+Employment Type: Internship (3 months) → Full-Time 
+
+Work Setup: Hybrid (3 days onsite) 
+
+Job Description: 
+
+Volga Partners, a U.S.-based company, specializes in Artificial Intelligence and machine learning, catering to top technology giants and multinational corporations. Beyond that, we offer a spectrum of services including IT, business process outsourcing, advanced professional services, and crowd sourcing in both established and emerging markets. 
+
+We are seeking a detail-oriented and analytical Data Annotation Specialist to join our team. This hybrid role involves labeling, categorizing, and validating web content on the Web Data Platform (WDP) to improve the accuracy of our spam detection and content classification systems. 
+
+The ideal candidate will have a keen eye for detail, a strong understanding of web content and user experience, and the ability to work collaboratively in a fast-paced environment. 
+
+Key Responsibilities: 
+Data Annotation on UHRS & WDP: 
+
+Accurately label web pages and URLs as spam or non-spam on the UHRS platform. 
+Identify and annotate spam indicators such as deceptive content, misleading links, and aggressive advertising. 
+Categorize spam types (e.g., phishing, malware, adware) for precise identification. 
+Label and classify webpage content using the Web Data Platform (WDP) according to Microsoft's guidelines: 
+Primary Content: Directly relevant to user queries (e.g., main articles, product details, recipe steps). 
+Secondary Content: Tangential or unrelated elements (e.g., ads, suggested articles). 
+Focus on describing the purpose, function, or contextual significance of objects or elements when labeling. 
+Data Quality Assurance: 
+
+Ensure the accuracy and consistency of annotated data on the UHRS and WDP platforms. 
+Adhere to strict quality control standards to maintain data integrity. 
+Identify and report issues or inconsistencies in the annotation process. 
+Continuous Learning: 
+
+Stay updated on emerging spam techniques and evolving guidelines. 
+Adapt to changes in annotation requirements and tools on the UHRS and WDP platforms. 
+Contribute to the improvement of annotation processes and guidelines. 
+Qualifications & Requirements: 
+Bachelor's degree in Computer Science, Linguistics, Data Science, or a related field. 
+Prior experience in data annotation, labeling, or QA roles (preferred). 
+Strong understanding of annotation tools and platforms. 
+Excellent communication and training skills. 
+Detail-oriented with strong analytical and problem-solving abilities. 
+Ability to work collaboratively across cross-functional teams. 
+Basic understanding of web technologies and internet security concepts. 
+Strong organizational and time management skills. 
+ 
+Why Join Volga? 
+
+Flexible, supportive remote work environment (hybrid with 3 days onsite). 
+Opportunities for career growth and development. 
+Competitive compensation and benefits. 
+Collaborative, inclusive, and innovative team culture. 
+Salary: 
+
+Internship: 50,000 PKR/month 
+After Internship (upon successful completion): 70,000 PKR/month 
+After Probation (3 months probation period): 80,000 PKR/month 
+Benefits (after probation): 
+
+
+Life Insurance 
+Medical Insurance 
+Provident Fund 
+EOBI
+"""
+
+
+jd3 = """Summer Data Analyst
+About the job
+Summer Analyst Intern
+
+Location: Pakistan (Remote)
+
+We are looking for a motivated Summer Analyst Intern at an entry level to support us with several data-related projects during the summer period. These are primarily one-time analytical and operational projects requiring strong attention to detail and analytical thinking.
+
+Our mission at Swapp is to enable seamless mobility aligned with each individual’s evolving needs. We are a dynamic car rental start-up leveraging cutting-edge technologies to revolutionize the transportation industry. Our company, a car subscription platform, offers a digital, flexible, and affordable alternative to buying or leasing vehicles. Our platform brings together various rental companies, helping them manage the constantly changing supply and demand in the industry. Swapp ensures a smooth and reliable experience for the customers, particularly when plans are changing.
+
+Responsibilities:
+Support various ad hoc data and reporting projects
+Work with datasets using SQL and Google Sheets
+Clean, organize, and validate data
+Prepare reports and assist with operational analysis
+Collaborate with internal teams on data-related tasks
+Requirements:
+Basic to intermediate SQL skills
+Strong Google Sheets / spreadsheet skills
+Analytical mindset and attention to detail
+Ability to work independently and meet deadlines
+Currently pursuing or recently completed a degree in Business, Analytics, Economics, Computer Science, or a related field
+This is a great opportunity for someone looking to gain hands-on experience in analytics and operational data projects within a fast-paced environment
+"""
+
+jd4 = """Growth Market Analyst - SEO, Data and Web
+
+About the job
+About Edge
+
+Edge is an AI-native healthcare staffing company redefining how health systems and medical groups source clinical and operational talent. We operate at the intersection of enterprise healthcare and modern workforce technology — serving a market defined by urgency, complexity, and consequence.
+Our growth engine is highly data-driven, performance-oriented, and built for rapid iteration. We are looking for operators who can turn marketing signals into actionable insights and help scale acquisition through disciplined experimentation, analytics, and execution.
+
+
+About the Role
+We’re hiring a Growth Marketing Analyst to partner closely with the Demand Generation lead on the operating engine behind paid media, SEO, analytics, and the website.
+This role sits at the center of data and growth execution — building real-time dashboards, extracting campaign insights, identifying optimization opportunities, and translating performance data into decisions the business can act on immediately.
+SEO will be your primary growth lever, with additional ownership across reporting infrastructure, landing pages, attribution, and tactical website work.
+This is a highly cross-functional role working across marketing, content, web, and analytics.
+
+
+What You’ll Do
+
+Data & Reporting (~40%)
+
+Build and maintain real-time dashboards in Looker, Looker Studio, or PowerBI for paid media, SEO, and pipeline performance
+Extract and structure data via APIs across Google Ads, Meta, GA4, HubSpot, and Semrush using Python
+Build automated reporting systems for weekly performance reviews, monthly attribution reporting, and quarterly trend analysis
+Surface optimization opportunities from campaign data, search-term reports, funnel analysis, and conversion performance
+Build and maintain the single source of truth dashboard for Demand Generation pipeline reporting
+Translate datasets into clear, actionable recommendations for the marketing team
+SEO & Organic Growth (~35% — Primary Growth Lever)
+
+Own Edge’s organic search performance end-to-end
+Conduct keyword research, content gap analysis, and competitor SERP audits
+Partner with content writers by creating SEO-focused content briefs and scaling blog production
+Manage on-page SEO including titles, meta descriptions, internal linking, schema markup, and content optimization
+Run technical SEO audits covering crawlability, site speed, mobile usability, and indexation health
+Track rankings, organic traffic, and conversion performance against monthly growth targets
+Paid Media Support (~15%)
+
+Support optimization efforts across Google Ads, Meta, TikTok, LinkedIn, and Performance Max campaigns
+Build and audit conversion tracking infrastructure, GTM tags, and attribution systems
+Support keyword bidding strategy, negative keyword management, and search-term analysis
+Set up and analyze A/B tests across creatives, landing pages, and audience segments
+Landing Pages & Website (~10%)
+
+Build and launch landing pages for new campaigns and acquisition initiatives
+Run on-page conversion rate optimization (CRO) experiments
+Make tactical website updates through CMS platforms including Webflow, WordPress, or Next.js environments
+Coordinate with the web development team on larger structural or technical updates
+
+
+What You’ll Need
+
+Must-Haves
+
+3+ years of experience in growth marketing, marketing analytics, performance marketing, or a related role
+Strong Python skills for data extraction, automation, and analysis (pandas, requests, API integrations, light scripting)
+Proven experience building production-grade dashboards in Looker, Looker Studio, or PowerBI
+Hands-on SEO experience across keyword research, on-page optimization, technical SEO, and content briefing
+Working knowledge of Google Ads and Meta Ads platforms, including auditing and optimization recommendations
+Comfort making tactical landing-page and website updates using HTML/CSS and modern CMS platforms
+Basic understanding of how Next.js or Webflow sites are structured
+Strong analytical thinking with the ability to independently interpret datasets and recommend actions
+Professional-level English communication skills, particularly for B2B environments
+Nice to Have
+
+Experience in healthcare, B2B SaaS, staffing, or recruiting environments
+Hands-on experience with Semrush, Ahrefs, or Moz (Semrush preferred)
+Familiarity with A/B testing platforms such as Optimizely, VWO, or Convert
+Experience implementing schema markup and structured data
+Familiarity with HubSpot CRM, GA4, GTM, and Salesforce
+Experience editing sites in Webflow, WordPress, or Next.js
+Working knowledge of SQL for direct database queries
+Familiarity with content production workflows from briefing through publishing
+
+
+Why Join Edge?
+
+Edge is at a pivotal growth point, and this role offers the rare opportunity to shape the future of global employment. Here, your work directly impacts our growth trajectory, empowers businesses, and creates global employment opportunities. We’re not just offering a job; we’re inviting you to be part of a revolution.
+Edge is proud to be an equal-opportunity employer. We are committed to fostering a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, veteran status, or any other legally protected basis.
+"""
